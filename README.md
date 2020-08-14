@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá! :v:
 
-<!--
-**l4ur4oliveira/l4ur4oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :coffee: Work
+Dev de formação (porém não muito praticante) e especialista em Gestão de Projetos.
+<br>Atuo como líder de equipe front-end para email marketing e equipe de testes de produtos web e CRO.
+<br>Interessada em ensinar e formar as devs de amanhã. :heartpulse:
 
-Here are some ideas to get you started:
+### :computer: Studying
+- Full stack dev
+- Vue JS
+- Robot Framework
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">](https://www.linkedin.com/in/l4ur4oliveira/)
+[<img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white">](mailto:l4ur4.88@gmail.com)
+<img src="https://img.shields.io/badge/Discord-l4ur4oliveira%230939-6f85d2?logo=discord&logoColor=white">

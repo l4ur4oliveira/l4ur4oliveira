@@ -1,8 +1,8 @@
 ## Olá! :v:
 
 ### :coffee: Work
-Dev de formação (porém não muito praticante) e especialista em Gestão de Projetos.
-<br>Atuo como líder de equipe front-end para email marketing e equipe de testes de produtos web e CRO.
+Dev de formação (porém não muito praticante) e especialista em Gestão de Projetos e Gestão do Conhecimento.
+<br>Atuo como líder de equipe front-end e testes.
 <br>Interessada em ensinar e formar as devs de amanhã. :heartpulse:
 
 ### :computer: Studying

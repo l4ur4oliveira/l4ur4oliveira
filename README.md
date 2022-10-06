@@ -1,7 +1,12 @@
-<h1 align="center">Prazer, sou a Lau! <i>(ela/dela)</i> :v:</h1>
+<h1 align="center">Hey! I'm Lau! <i>(she/her)</i> 🏳️‍🌈</h1>
 
 ## :coffee: Work
-Dev de formação (porém não muito praticante) e especialista em Gestão de Projetos e Gestão do Conhecimento.
+
+**🔵🔴[EN]** Graduated as developer (I don't practice so much) and specialist in Project Management and Knowledge Management.
+<br>I work as front-end team leader.
+<br>Interested in teaching and training the developers of tomorrow. :heartpulse:
+
+**🟢🟡[PT-BR]** Dev de formação (não muito praticante) e especialista em Gestão de Projetos e Gestão do Conhecimento.
 <br>Atuo como líder de equipe front-end e testes.
 <br>Interessada em ensinar e formar as devs de amanhã. :heartpulse:
 

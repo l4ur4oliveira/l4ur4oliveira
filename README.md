@@ -7,7 +7,7 @@
 <br>Interested in teaching and training the developers of tomorrow. :heartpulse:
 
 **🟢🟡[PT-BR]** Dev de formação (não muito praticante) e especialista em Gestão de Projetos e Gestão do Conhecimento.
-<br>Atuo como líder de equipe front-end e testes.
+<br>Atuo como líder de equipe front-end.
 <br>Interessada em ensinar e formar as devs de amanhã. :heartpulse:
 
 ## :computer: Studying

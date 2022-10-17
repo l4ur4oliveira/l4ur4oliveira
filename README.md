@@ -25,4 +25,4 @@
 [<img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to">](https://dev.to/l4ur4oliveira)
 <img src="https://img.shields.io/badge/Discord-l4ur4oliveira%230939-6f85d2?style=for-the-badge&logo=discord&logoColor=white">
 
-[![@l4ur4oliveira's Holopin board](https://holopin.io/api/user/board?user=l4ur4oliveira)](https://holopin.io/@l4ur4oliveira)
+[![@l4ur4oliveira's Holopin board](https://holopin.me/l4ur4oliveira)](https://holopin.io/@l4ur4oliveira)

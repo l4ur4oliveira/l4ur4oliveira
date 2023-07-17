@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=blue"> <img src="https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/Node.JS-white?style=for-the-badge&logo=node.js">
 
 #### Side quests
-<img src="https://img.shields.io/badge/Robot Framework-white?style=for-the-badge&logo=robot-framework&logoColor=black"> <img src="https://img.shields.io/badge/Cypress-white?style=for-the-badge&logo=cypress&logoColor=gray"> <img src="https://img.shields.io/badge/Vue.JS-white?style=for-the-badge&logo=vue.js"> <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Vue.JS-white?style=for-the-badge&logo=vue.js"> <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss"> <img src="https://img.shields.io/badge/Prisma-white?style=for-the-badge&logo=prisma&logoColor=black"> <img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=php">
 
 ## :world_map: Find me
 

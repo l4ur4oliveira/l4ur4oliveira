@@ -15,12 +15,12 @@
 ## :computer: Studying
 
 #### Core
-<img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=rebeccapurple"> <img src="https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=goldenrod"> <img src="https://img.shields.io/badge/Node.JS-white?style=for-the-badge&logo=node.js">
+<img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=rebeccapurple"> <img src="https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=javascript&logoColor=goldenrod"> <img src="https://img.shields.io/badge/Node.JS-white?style=for-the-badge&logo=node.js"> <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git"> 
 
 #### Side quests
 <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss"> <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black"> <img src="https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro">
 
 #### Other tools
-<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/Gemini-white?style=for-the-badge&logo=googlegemini"> <img src="https://img.shields.io/badge/Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=gray"> <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue"> <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
+<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/Gemini-white?style=for-the-badge&logo=googlegemini"> <img src="https://img.shields.io/badge/Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=gray"> <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue"> <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
 
 [![@l4ur4oliveira's Holopin board](https://holopin.me/l4ur4oliveira)](https://holopin.io/@l4ur4oliveira)

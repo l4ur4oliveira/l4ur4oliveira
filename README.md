@@ -2,9 +2,9 @@
 
 ## :coffee: Work
 
-**🔵🔴[EN]** Graduated as developer and specialist in Project Management and Knowledge Management. I work as front-end team leader. Interested in learning, teaching and doing cool stuff.
+**🔵🔴[EN]** Graduated as developer and specialist in Project Management and Knowledge Management. With a front-end background, I've been working as an Engineering Manager for the last +7 years. I'm interested in learning, teaching and doing cool stuff with code.
 
-**🟢🟡[PT-BR]** Dev de formação e especialista em Gestão de Projetos e Gestão do Conhecimento. Atuo como líder de equipe front-end. Interessada em aprender, ensinar e fazer coisas legais.
+**🟢🟡[PT-BR]** Dev de formação e especialista em Gestão de Projetos e Gestão do Conhecimento. Com um background front-end, venho atuando como Engineering Manager há +7 anos. Interessada em aprender, ensinar e criar coisas legais com código.
 
 ## :world_map: Find me
 

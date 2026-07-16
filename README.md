@@ -8,7 +8,7 @@
 
 ## :world_map: Find me
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/l4ur4oliveira/)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/lau-de-oliveira/)
 [<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:l4ur4.88@gmail.com)
 [<img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to">](https://dev.to/l4ur4oliveira)
 

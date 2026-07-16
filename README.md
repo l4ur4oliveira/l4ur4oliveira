@@ -21,6 +21,6 @@
 <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss"> <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black"> <img src="https://img.shields.io/badge/Astro-white?style=for-the-badge&logo=astro">
 
 #### Other tools
-<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/Gemini-white?style=for-the-badge&logo=googlegemini"> <img src="https://img.shields.io/badge/Copilot-white?style=for-the-badge&logo=githubcopilot&logoColor=gray"> <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue"> <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
+<img src="https://img.shields.io/badge/Antigravity-white?style=for-the-badge&logo=googlegemini&logoColor=#8E75B2"> <img src="https://img.shields.io/badge/Opencode-white?style=for-the-badge&logo=opencode&logoColor=black"> <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma"> <img src="https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue"> <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black">
 
 [![@l4ur4oliveira's Holopin board](https://holopin.me/l4ur4oliveira)](https://holopin.io/@l4ur4oliveira)
